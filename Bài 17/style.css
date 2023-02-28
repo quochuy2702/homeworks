@@ -1,0 +1,58 @@
+.box{
+    width: 280px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: blue;
+}
+.heading{
+    top: 0;
+    right: 0;
+    left: 0;
+}
+h2{
+    margin: 0;
+    border: 1px solid #333;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(8, 8, 96);
+    padding: 10px 0;
+}
+
+.input{
+    border: 1px solid #333;
+
+}
+
+#number1, #number2, #number3, #number4{
+    width: 70%;
+    padding: 5px 10px;
+    margin: 10px 30px;
+    border-radius: 5px;
+}
+.select input{
+    width: 20px;
+    padding: 5px 10px;
+    margin: 10px 10px 10px 30px;
+    
+}
+.select label{
+    font-size: 10px;
+    color: aliceblue;
+}
+.button{
+    width: 250px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 0;
+}
+.button input{
+    color: aliceblue;
+    background-color: rgb(38, 158, 38);
+    padding: 5px 10px;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+}
+span{
+    color: red;
+}
